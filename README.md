@@ -1,7 +1,10 @@
 # Natours
+### [Live Site](https://cloudifyhosting.netlify.app/)
+<img style="text-align:center" src="https://user-images.githubusercontent.com/81709725/131957281-d2adcb9f-c58c-4594-bfd6-5f56d7eec8a4.png" />
 
+#
 
-## Features
+### Features
 
 * B.E.M
 * Advanced CSS and SASS
@@ -11,8 +14,9 @@
 * Modern CSS Properties but before using them always check [CanIUse](https://caniuse.com/)
 * Responsive Grid System
 
+#
 
-## Implements 7-1 CSS Architecture
+### Implements 7-1 CSS Architecture
 
 ```yml
 sass/
@@ -61,13 +65,3 @@ sass/
 |
 `– main.scss              # Main Sass file
 ```
-
-* Introduction to Sass: variables, nesting, partials, imports, mixins, functions, extends, and more.
-* Using Sass in real-world projects: setting global variables, building for reusability, architecting CSS and managing media queries.
-* The NPM ecosystem: setting up a development process to compile Sass and automatic browser reload, and creating a build process to concatenate, prefix and compress CSS files.
-* Modern responsive design: fluid grids, layout types, flexible images, using media queries to test for different screen widths, pixel densities and touch capabilities.
-* Advanced responsive design workflows: mobile-first vs desktop-first strategies, selecting breakpoints, em vs rem units and feature queries to test for browser support.
-* Responsive images in HTML and CSS for faster pageloads: resolution switching, density switching, art direction.
-* SVG images in HTML and CSS: how and why to use SVG, generating SVG sprites, changing SVG colours in CSS and best practices.
-* Videos in HTML and CSS: building a background video effect.
-* How to architect and build a simple grid system with floats.  This project uses float layout.
